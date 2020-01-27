@@ -1,0 +1,3 @@
+# REQUIREMNTS
+
+- `pip install pipreqs`

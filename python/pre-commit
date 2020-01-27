@@ -1,0 +1,4 @@
+#!/bin/sh
+
+pipreqs --force
+git add requirements.txt
